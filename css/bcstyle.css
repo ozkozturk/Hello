@@ -1,0 +1,39 @@
+
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.siyah-arkaplan {
+    background-color: #333;
+    color: white;
+}
+
+header nav.sayfa1 {
+    background-color: rgb(35, 35, 35);
+    border-radius: 5px;
+}
+
+header nav li a {
+    padding: .5rem;
+}
+
+section .media {
+    margin-bottom: 2rem;
+}
+
+.menu-arkaplan {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#60aef2+0,0a77d5+50,1e8de8+100 */
+    background: rgb(96, 174, 242);
+    /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(96, 174, 242, 1) 0%, rgba(10, 119, 213, 1) 50%, rgba(30, 141, 232, 1) 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(96, 174, 242, 1) 0%, rgba(10, 119, 213, 1) 50%, rgba(30, 141, 232, 1) 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgb(187, 223, 255) 0%, rgb(164, 213, 255) 50%, rgb(35, 151, 247) 100%);
+    progid: DXImageTransform.Microsoft.gradient(startColorstr='#60aef2', endColorstr='#1e8de8', GradientType=0);
+    /* IE6-9 */
+}
+
